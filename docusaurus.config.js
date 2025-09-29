@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "while art: code() ",
-  tagline: "Digital Work that feels sublime",
+  tagline: "Digital interactivity breathes the fragrance of color and graphite",
   url: "https://jcarroyos.art",
   baseUrl: "/",
   onBrokenLinks: "ignore",
