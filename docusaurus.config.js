@@ -72,17 +72,13 @@ const config = {
                 to: "https://mastodon.art/@jcarroyos",
               },
               {
-                label: "FreeCodeCamp",
-                to: "https://www.freecodecamp.org/jcarroyos",
-              },
-              {
                 label: "GitHub",
-                to: "https://github.com/jcarroyos",
+                to: "https://github.com/desarroyame",
               },
             ],
           },
           {
-            title: "I participate in",
+            title: "I participate in ",
             items: [
               {
                 label: "ACdM",
